@@ -1,0 +1,22 @@
+*{margin: 0;padding: 0;}
+ul li{list-style: none;}
+
+.game{width: 525px;height: 525px;margin: 0 auto;background: gray}
+.btn{width: 160px;height: 40px;margin: 20px auto;background-color: #f2b179;text-align: center;line-height:40px;cursor:pointer }
+.game li{margin: 25px 0 0 25px; background-color: silver;width: 100px;height: 100px;float: left;text-align: center;line-height:90px;font-size: 50px;}
+.div_0{}
+.div_2{background-color: #eee4da!important;color: #7c736a;}
+.div_4{ color: #7c736a;background: #ece0c8!important;}
+.div_8{ color: #fff7eb;background: #f2b179!important;}
+.div_16{ color: #fff7eb;background: #f59563!important;}
+.div_32{ color: #fff7eb;background: #f57c5f!important;}
+.div_64{ color: #fff7eb;background: #f65d3b!important;}
+.div_128{ color: #fff7eb;background: #edce71!important;}
+.div_256{ color: #fff7eb;background: #edcc61!important;}
+.div_512{ color: #fff7eb;background: #ecc850!important;}
+.div_1024{ color: #fff7eb;background: #edc53f!important;}
+.div_2048{ color: #fff7eb;background: #eec22e!important;}
+#fullbg {background-color: gray;left: 412px;opacity: 0.9;position: absolute;top:10px;z-index: 3; width:100%; height: 100%; display:none}
+.go{width:200px;height:200px;margin:100px auto;font-size: 40px;color: whitesmoke;text-align: center;line-height:100px; }
+
+
